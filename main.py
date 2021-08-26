@@ -67,7 +67,7 @@ if menu == 1:
         a += 1
         pass
 elif menu == 2:
-    print(f' {VRCRM}{Ired2} SOMENTE O NÚMERO SEM ESPAÇO OU -\nEXEMPLO :+5511959228439{VRCRM}')
+    print(f' {VRCRM}{Ired2} SOMENTE O NÚMERO SEM ESPAÇO OU -\nEXEMPLO :+5512988789266{VRCRM}')
     n = int(input(f'{VRCRM}{Ired2}{Nyellow} Digite o número do alvo :{Dgreen}'))
     print('\n')
     print(f'{VRCRM}{Ired}Localizando alvo!!!{VRCRM}')
