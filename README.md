@@ -17,7 +17,7 @@ NÃO ME RESPONSABILIZO POR QUALQUER DANOS QUE ESTA FERRAMENTA PODE CAUSAR*
 💻 Termux
 $ pkg upgrade -y && pkg update -y
 $ pkg install git python figlet -y
-$ git clone https://github.com/drmidnightytb/TrojanSpam
+$ git clone https://github.com/MidD3Vil/TrojanSpam
 $ cd TrojanSpam
 $ python3 main.py
 ```
